@@ -4,3 +4,4 @@
 子曰：“弟子入则孝，出则弟，谨而信，泛爱众，而亲仁。行有余力，则以学文”。
 I know nothing except the fact of my ignorance.
 Know yourself.
+"... at its heart is the idea that the power of a system comes more from the relationships among programs than from the programs themselves." - The UNIX Programming Environment
