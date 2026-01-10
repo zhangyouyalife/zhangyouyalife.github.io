@@ -1,4 +1,6 @@
 #quote {
     padding: 1em 0;
     text-align: center;
+    line-height: 1em;
+    min-height: 1em;
 }
